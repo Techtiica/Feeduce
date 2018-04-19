@@ -1,14 +1,14 @@
 @font-face {
     font-family: "SF-Pro-Display-Thin" format('opentype');
-    src: url(./SF-Pro-Display-Thin.otf);
+    src: url(SF-Pro-Display-Thin.otf);
 }
 @font-face {
     font-family: "Raleway" format('opentype');
-    src: url(./Raleway-Thin.ttf);
+    src: url(Raleway-Thin.ttf);
 }
 @font-face {
     font-family: "Liar Script" format('opentype'); 
-    src: url(./Liar Script - OTF.otf);
+    src: url(Liar Script - OTF.otf);
 }
 body {color: #333; 
     font-family: 'SF-Pro-Display-Thin', sans-serif;
