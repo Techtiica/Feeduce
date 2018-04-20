@@ -8,8 +8,11 @@
 }
 @font-face{
   font-family: 'Liar Script';
-  src: url(./Liar Script - OTF.otf);
+  src: url(./Liar Script - TTF.ttf);
 }
+
+
+
 
 
 body {color: #333; 
@@ -130,12 +133,12 @@ nav li a:hover {
 .column h2{
     text-align: center;
     font-weight: bold;
-    font-family: Raleway, sans-serif;
+    font-family: SF-Pro-Display-Thin, sans-serif;
 }
 
 #intro p{
 text-align: center;
-font-family: Raleway,sans-serif ;
+font-family: SF-Pro-Display-Thin,sans-serif ;
 width: 100%;
 }
 #techtiica{
@@ -176,7 +179,7 @@ hr{
     align-content: center;
     font-size: 650%;
     color: white;
-    font-family: Raleway, sans-serif;
+    font-family: SF-Pro-Display-Thin, sans-serif;
     margin-top: 15%;
 
 }
@@ -219,7 +222,7 @@ hr{
 }
 .column p{
 text-align: center;
-font-family: Raleway,sans-serif ;
+font-family: SF-Pro-Display-Thin,sans-serif ;
 }
 
 #sm{
@@ -346,6 +349,7 @@ font-family: Raleway,sans-serif ;
     height: 100%;
     vertical-align: middle;
     font-size: 100%;
+    font-family: SF-Pro-Display-Thin;
 }
 #text{
     background-image: url(./images/Capture1.PNG);
